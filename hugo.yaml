@@ -38,12 +38,14 @@ params:
   profileMode:
     enabled: true
     title: Pietro Argento
-    subtitle: Data Scientist · AI engineering, agents, ML & MLOps
+    subtitle: Data Scientist · AI/ML Engineering
     buttons:
       - name: Posts
         url: /posts/
       - name: Tags
         url: /tags/
+      - name: About
+        url: /about/
 
   socialIcons:
     - name: github
@@ -52,8 +54,6 @@ params:
       url: https://www.linkedin.com/in/pietro-argento/
     - name: strava
       url: https://www.strava.com/athletes/107757242
-    - name: rss
-      url: /index.xml
 
 menu:
   main:
