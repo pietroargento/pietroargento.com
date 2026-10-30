@@ -16,6 +16,6 @@ A place to think out loud and keep notes worth keeping: AI agents, ML systems, a
 
 Notes from real projects, experiments at the edge of what current models can do, and the occasional lesson learned the hard way.
 
-### What's next
+## What's next
 
 This site is a work in progress. The first real posts are on their way, so come back soon.
