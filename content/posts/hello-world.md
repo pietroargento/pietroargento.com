@@ -2,24 +2,20 @@
 title: Hello, World
 date: 2026-10-30
 draft: false
-tags: [meta, hugo]
-summary: First post — what this blog is and how it's built.
+tags: [meta]
+summary: First post — what this blog is about and what's coming next.
 ---
 
-This is a placeholder post to make sure everything works.
+Welcome to my blog.
 
 ## Why a blog
 
-A place to think out loud and keep notes worth keeping. See the [about page](/about/).
+A place to think out loud and keep notes worth keeping: AI agents, ML systems, and the engineering it takes to make them reliable in production. See the [about page](/about/) for more on me.
 
-## How it's built
+## What to expect
 
-The site is generated with [Hugo](https://gohugo.io/) and the PaperMod theme, then deployed to GitHub Pages on every push:
-
-```bash
-hugo --gc --minify
-```
+Notes from real projects, experiments at the edge of what current models can do, and the occasional lesson learned the hard way.
 
 ### What's next
 
-Real posts.
+This site is a work in progress. The first real posts are on their way, so come back soon.
